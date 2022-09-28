@@ -5,36 +5,258 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6157ca03-2ff2-407d-9635-3c89d09fee8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pornfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComponentListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomJPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MouseClickEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PicFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vobrazky/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vobrazky/16.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vobrazky/25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vobrazky/26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vobrazky/27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vobrazky/28.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vobrazky/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vobrazky/cernyslunicko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vobrazky/horsemilk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vobrazky/karl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vobrazky/kgbarl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vobrazky/mhoghus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vobrazky/mogus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vobrazky/mormogussus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vobrazky/panePlodikuMusimeVarit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vobrazky/samlokalike.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/20200731_173307.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/AI rooster 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Anormli.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Bodka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Cool_news.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/DDos_Attack_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/D_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/EA_kody.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Fedora_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/HP_logo_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/HailMann.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/IgorDjejpeg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Metro good ending theme cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Microsoft_Windows_Server_2012_R2_Logo_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Microsoft_v_Praze_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/MikolasPeek_two_techno_phoenix_birds_flying_from_ashes_and_flam_860719f2-eb97-46d9-9564-57d08bdb65f2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/RIPE_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Screenshot_20210307-150118_Video Player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Screenshot_20210503-085200_Chrome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Screenshot_20211028-233506_Gallery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Snímek obrazovky 2021-01-25 215958.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Snímek obrazovky 2021-01-26 122302.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Snímek obrazovky 2021-01-26 152000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Snímek obrazovky 2021-02-05 001646.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Snímek obrazovky 2021-02-14 174840.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Snímek obrazovky 2021-02-15 143842.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Snímek obrazovky 2021-03-08 155011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Snímek obrazovky 2021-03-08 155739.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Snímek obrazovky 2021-04-19 134718.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Snímek obrazovky 2021-07-22 221046.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Snímek obrazovky 2022-03-30 110459.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/TÜV_badge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/VendyFeetPics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/Windows_7_alt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/ahegao_chesters.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/ahegao_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/amogSAS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/amoguszeman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/apeshit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/arbesus je sus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/arraylistpov.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/asrock-new-board-stx_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/astronaut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/auschwitzzzzSS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/autobook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/baggrond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/baground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/bird_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/bitcoin_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/blakbird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/bluescreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/blurbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/boosterbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/bsod.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/budhoknizka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/bullet-point-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/bundus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/carlos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/centos_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/chat okno_alt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/chelsea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/chester_ahegao_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/cock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/coolhousing_serverhousing1200x900cz_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/coolhousing_serverhousing1200x900eng_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/coolhousing_unor2017_1200x900px_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/coolhousingcz1200x900px_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/csgocirkus1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/ctverecek.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/ctverecek_new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/dark_shack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/debian_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/dedicated_server_benefits_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/devour_mini.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/devour_mini2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/dnssec_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/donate_tlačítko.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/drawing_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/enlistedmini.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/eset_bot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/eset_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/ethereum_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/expl_ggl_ads.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/expression1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/expression2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/eyes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/facebook2_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/farm-hosting_alt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/fastmodem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/formule1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/github_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/goathead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/google-px_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/gopnig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/gopnikhat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/grab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/greenscreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/guitar_transparent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/hamstergolryhole.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/hayblocc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/honkhonkmotharfukka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/honzikuv_creampie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/housewife.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/hsdd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/hwbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/hwlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/iconProf_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/iconhw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/igorhlava.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/igorjoint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/igormrkev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/igorpog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/image0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/intel-buys-nervana-systems_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/intel_14nm_technology_alt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/intel_will_leak_out_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/ip-adress_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/iphone_new_cover_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/ipv6_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/jidasek.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/karel_pravil_picovinu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/karel_sedi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/karel_srani.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/karelvzahrade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/karelvzahrade2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/keepamericagreat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/kekwplodik.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/kolecek_rika.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/konektivita_19122010_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/kozaphase1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/kozaphase2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/kozaphase3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/kubahlava.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/kulatyobdelnik.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/kulatyobdelnikbackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/kvm-vps_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/laser-eye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/laser_test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/laser_test2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/like_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/linux_mint_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/linuxdays_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/logo-ubuntu_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/lol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/lolee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/mazzura.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/metro_2033_good_ending_theme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/miainterested.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/miature2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/microsoft_buys_linkedin_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/mifkovina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/mijapog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/minidatingtips.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/mlem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/ne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/obrazekWIndowsXp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/odstavka_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/ohen-v-coolne_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/omgubuntu_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/omniverse_piss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/opennetlinux_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/openvpn_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/oplodník.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/oplodník_chujang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/ozdobicka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/paragraf_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/parecek.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/pavelCoDopici.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/pavel_sad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/paveldrip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/phone_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/plodikAwww.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/plodikThanos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/pocovina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/podpis_mik.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/podpismik.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/potvrzeni_o_studiu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/praaw77gsir61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/pranicko_predni_strana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/pranicko_zadni_strana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/prayforcum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/proc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/protonvpn_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/prpc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/prpc2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/prpc3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/prpc6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/ptakopyck3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/python_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/qrcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/qualcomm_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/r4z2ldwjlkdx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/report.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/rukavoda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/shampon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/shampoo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/site.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/skeleton_crimson.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/slider1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/smlouva_hanca_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/smlouva_prace.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/spam_stock_alt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/spamuelposter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/static-ip_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/stepa_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/stream_ramecek_kamera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/stream_ramecek_kamera_4-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/stul.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/sudo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/sus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/sus_emoji_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/sus_emoji_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/sus_emoji_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/sus_emoji_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/suse_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/systemd_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/tacticalschnitzel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/teaser_image_602853.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/this.vec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/thunderbird_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/tiles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/twitter_logo_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/typooScript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/unix_ps_illustration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/vd40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/vdoleček.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/vecernicek.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/velkomesto moment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/vendy_a_mik_blejou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/vendy_belle_delphine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/vendy_prga_uwu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/vitek_fish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/vitekcreepy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/vitekcum2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/vodapusa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/vosk_1_textura.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/wikileaks_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/wtf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/wtf2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/wtf3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/wut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/wut2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/zakladni_rozhrani_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/zaruka_14_dni_modra_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vobrazky/ïsforme.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomJPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomJPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MouseClickEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MouseClickEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PicFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PicFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,19 +286,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="" />
@@ -109,6 +329,8 @@
       <workItem from="1663847192627" duration="1158000" />
       <workItem from="1664168646587" duration="15210000" />
       <workItem from="1664189016443" duration="12476000" />
+      <workItem from="1664400135103" duration="793000" />
+      <workItem from="1664400994523" duration="3312000" />
     </task>
     <servers />
   </component>
@@ -125,6 +347,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

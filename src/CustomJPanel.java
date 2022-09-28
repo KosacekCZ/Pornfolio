@@ -21,10 +21,11 @@ public class CustomJPanel extends JPanel {
         this.w = w;
         this.h = h;
     }
+
     @Override
     protected void paintComponent(Graphics g) {
         super.paintComponent(g);
-        //g.drawImage(img, 0, 0, null);
-        g.drawImage(img, 0, 0, w, h, null);
+        g.drawImage(img, 0, 0, w, h,null);
+        g.dispose();
     }
 }

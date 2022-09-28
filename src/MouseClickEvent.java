@@ -5,15 +5,17 @@ public class MouseClickEvent implements MouseListener {
 
     private final PicFrame mogus;
     private final GUI g;
+    private final String path;
 
     public MouseClickEvent (PicFrame mogus, GUI g) {
         this.mogus = mogus;
         this.g = g;
+        this.path = mogus.path;
     }
 
     @Override
     public void mouseClicked(MouseEvent e) {
-        g.maximise(mogus.path);
+        g.maximise(path);
     }
 
     @Override

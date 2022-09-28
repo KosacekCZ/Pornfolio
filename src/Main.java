@@ -3,7 +3,6 @@ public class Main {
         GUI i = new GUI();
         i.init();
         i.renderFrames();
-        i.drawImages();
         i.repaint();
     }
 }
