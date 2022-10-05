@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class CustomJPanel extends JPanel {
 
-    private final BufferedImage img;
+    private BufferedImage img;
     private final int w;
     private final int h;
 
@@ -16,8 +16,9 @@ public class CustomJPanel extends JPanel {
             this.img = ImageIO.read(new File(img));
         } catch (IOException e) {
             System.out.println(e);
-            throw new RuntimeException(e);
         }
+
+        // System.out.println("loading " + img);
         this.w = w;
         this.h = h;
     }

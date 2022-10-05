@@ -3,14 +3,12 @@ import java.awt.event.MouseListener;
 
 public class MouseClickEvent implements MouseListener {
 
-    private final PicFrame mogus;
     private final GUI g;
-    private final String path;
+    private String path;
 
-    public MouseClickEvent (PicFrame mogus, GUI g) {
-        this.mogus = mogus;
+     public MouseClickEvent (String path, GUI g) {
+        this.path = path;
         this.g = g;
-        this.path = mogus.path;
     }
 
     @Override
